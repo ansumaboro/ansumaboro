@@ -17,11 +17,11 @@
       <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white&border_radius=8" alt="GitHub">
     </a>
     &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/ansuma-boro">
+    <a href="[https://linkedin.com/in/ansuma-boro](https://www.linkedin.com/in/ansuma-boro-2608a2269)">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=8" alt="LinkedIn">
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:ansumaboro.official@gmail.com">
+    <a href="mailto:ansumaboro3221@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=8" alt="Email">
     </a>
   </p>
