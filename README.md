@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white&border_radius=8" alt="GitHub">
     </a>
     &nbsp;&nbsp;
-    <a href="[https://linkedin.com/in/ansuma-boro](https://www.linkedin.com/in/ansuma-boro-2608a2269)">
+    <a href="https://www.linkedin.com/in/ansuma-boro-2608a2269">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=8" alt="LinkedIn">
     </a>
     &nbsp;&nbsp;
